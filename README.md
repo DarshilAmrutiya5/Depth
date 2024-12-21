@@ -1,4 +1,4 @@
-**Overview: **
+**Overview**
 Measures depth and generates 3D visualizations using stereo camera technology.
 Implements computer vision techniques for creating depth maps from stereo image pairs.
 Applications include robotics, augmented reality, and 3D modeling.
